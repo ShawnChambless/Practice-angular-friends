@@ -448,9 +448,8 @@ app.controller('mainCtrl', function($scope) {
             "$$hashKey": "02U"
         }
     ];
-    $scope.nameSearchTerm = '';
-    $scope.locationSearchTerm = '';
 
+    $scope.search = '';
 
 
 
